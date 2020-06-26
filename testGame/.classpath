@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="lib/ApacheJMeter_core.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ApacheJMeter_java.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jorphan.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/logkit-2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/simple-5.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/javax.websocket-api-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/tomcat-util-9.0.8.jar"/>
+	<classpathentry kind="lib" path="lib/jmeter-websocket-samplers-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/ApacheJMeter_http.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-util-9.1.1.v20140108.jar"/>
+	<classpathentry kind="lib" path="lib/JMeterWebSocketSampler-1.0.2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="lib/ApacheJMeter_functions.jar"/>
+	<classpathentry kind="lib" path="lib/avalon-framework-4.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.10.jar"/>
+	<classpathentry kind="lib" path="lib/tomcat7-websocket-7.0.88.jar"/>
+	<classpathentry kind="lib" path="lib/juli-6.0.53.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
